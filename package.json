@@ -1,6 +1,5 @@
 {
   "name": "expense-tracker-app",
-  "homepage": "https://github.com/SajanThapa22/Expense-Tracker-App",
   "private": true,
   "version": "0.0.0",
   "type": "module",
